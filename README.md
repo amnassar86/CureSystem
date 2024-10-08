@@ -18,7 +18,7 @@ Pharmatica هو نظام شامل لإدارة الصيدليات يهدف إل�
 Clone the repository:
 bash
 نسخ الكود
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/amnassar86/CureSystem.git
 التثبيت:
 الواجهة الخلفية: pip install -r requirements.txt
 الواجهة الأمامية: npm install
