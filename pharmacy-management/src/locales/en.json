@@ -1,0 +1,17 @@
+{
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "invoices": "Invoices",
+    "medicines": "Medicines",
+    "manage_invoices": "Manage Invoices",
+    "archive_invoices": "Archive Invoices",
+    "view": "View",
+    "delete": "Delete",
+    "add_invoice": "Add Invoice",
+    "edit": "Edit",
+    "add_medicine": "Add Medicine",
+    "search": "Search",
+    "profile": "Profile",
+    "logout": "Logout"
+  }
+  

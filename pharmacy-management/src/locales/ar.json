@@ -1,0 +1,17 @@
+{
+    "login": "تسجيل الدخول",
+    "dashboard": "لوحة التحكم",
+    "invoices": "الفواتير",
+    "medicines": "الأدوية",
+    "manage_invoices": "إدارة الفواتير",
+    "archive_invoices": "أرشفة الفواتير",
+    "view": "عرض",
+    "delete": "حذف",
+    "add_invoice": "إضافة فاتورة",
+    "edit": "تعديل",
+    "add_medicine": "إضافة دواء",
+    "search": "بحث",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج"
+  }
+  

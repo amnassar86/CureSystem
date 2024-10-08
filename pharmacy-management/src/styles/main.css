@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+[dir="ar"] {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  [dir="en"] {
+    direction: ltr;
+    text-align: left;
+  }
+  
+  /* src/styles/main.css */
+
+/* تحسين الظلال للعناصر */
+.el-header, .el-aside, .el-main {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* تحسين الخطوط والألوان */
+/* استيراد خط مخصص من Google Fonts */
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+}
+
+/* تحسين أزرار الـ Button */
+.el-button--primary {
+  background-color: #3A7CA5;
+  border-color: #3A7CA5;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.el-button--primary:hover {
+  background-color: #2e5f8a;
+  border-color: #2e5f8a;
+}
+
+/* تحسين إدخال البحث */
+.search-box .el-input__inner {
+  border-radius: 20px;
+}
+
+.search-box .el-input__inner:focus {
+  border-color: #3A7CA5;
+  box-shadow: 0 0 5px rgba(58, 124, 165, 0.5);
+}
+
+/* تخصيص الـ Table */
+.el-table {
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+/* تحسين الروابط */
+.el-dropdown-link {
+  cursor: pointer;
+}
+
+/* تخصيص ألوان الـ Button */
+.el-button--primary {
+  background-color: #3A7CA5;
+  border-color: #3A7CA5;
+}
+
+.el-button--primary:hover {
+  background-color: #2e5f8a;
+  border-color: #2e5f8a;
+}
+
+/* تخصيص ألوان الـ Input */
+.el-input {
+  border-radius: 4px;
+}
+
+.el-input__inner {
+  border: 1px solid #ccc;
+}
+
+.el-input__inner:focus {
+  border-color: #3A7CA5;
+}
+
+/* تخصيص الـ Table */
+.el-table {
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+/* تحسين الروابط */
+.el-dropdown-link {
+  cursor: pointer;
+}
